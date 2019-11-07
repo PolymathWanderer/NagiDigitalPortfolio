@@ -28,3 +28,10 @@ margin-left: auto;
 margin-right: auto;
 width: 50%;
 }
+header {
+    font-family: 'Roboto Slab', serif;
+}
+p{
+    background-image: url(http://www.ecocamp.travel/sites/default/files/styles/slide_domos_ecocamp_730x456/public/media/Torres-del-paine-1_0.jpg?itok=f_-MhIOx);
+    background-repeat: no-repeat;
+}
